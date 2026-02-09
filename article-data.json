@@ -1,0 +1,632 @@
+[
+    {
+        "title": "The Scientific Method in the Age of Big Data: Evolving Approaches to Discovery",
+        "excerpt": "How massive datasets and machine learning are transforming hypothesis testing and experimental design in modern science.",
+        "category": "Science",
+        "tag": "Science",
+        "readTime": "12 min",
+        "timestamp": "2024-01-10T09:15:00",
+        "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/scientific-method-age-big-data-evolving-approaches-discovery"
+    },
+    {
+        "title": "Citizen Science: How Public Participation is Accelerating Research Breakthroughs",
+        "excerpt": "The growing role of amateur scientists and distributed research projects in fields from astronomy to ecology.",
+        "category": "Science",
+        "tag": "Science",
+        "readTime": "10 min",
+        "timestamp": "2024-08-22T14:30:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/citizen-science-public-participation-accelerating-research-breakthroughs"
+    },
+    {
+        "title": "Open Access Revolution: Democratizing Scientific Knowledge Worldwide",
+        "excerpt": "How open publishing models are breaking down paywalls and accelerating global research collaboration.",
+        "category": "Research",
+        "tag": "Research",
+        "readTime": "11 min",
+        "timestamp": "2024-02-15T11:45:00",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/open-access-revolution-democratizing-scientific-knowledge-worldwide"
+    },
+    {
+        "title": "Reproducibility Crisis: Addressing the Challenges in Modern Scientific Research",
+        "excerpt": "Examining systemic issues in research validation and new frameworks for ensuring reliable results.",
+        "category": "Research",
+        "tag": "Research",
+        "readTime": "14 min",
+        "timestamp": "2025-01-20T13:20:00",
+        "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/reproducibility-crisis-addressing-challenges-modern-scientific-research"
+    },
+    {
+        "title": "Deep Sea Discoveries: New Species and Ecosystems in Earth's Final Frontier",
+        "excerpt": "Recent expeditions revealing previously unknown life forms in the ocean's deepest trenches.",
+        "category": "Discovery",
+        "tag": "Discovery",
+        "readTime": "9 min",
+        "timestamp": "2024-03-18T10:10:00",
+        "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/deep-sea-discoveries-new-species-ecosystems-earth-final-frontier"
+    },
+    {
+        "title": "Exoplanet Discoveries: Finding Earth-like Worlds Beyond Our Solar System",
+        "excerpt": "Latest findings from space telescopes revealing potentially habitable planets orbiting distant stars.",
+        "category": "Discovery",
+        "tag": "Discovery",
+        "readTime": "13 min",
+        "timestamp": "2025-03-08T16:40:00",
+        "image": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/exoplanet-discoveries-finding-earth-like-worlds-beyond-solar-system"
+    },
+    {
+        "title": "Quantum Sensing: Revolutionary Applications in Medicine, Navigation, and Security",
+        "excerpt": "How quantum technologies are enabling unprecedented precision in measurement and detection.",
+        "category": "Innovation",
+        "tag": "Innovation",
+        "readTime": "15 min",
+        "timestamp": "2024-04-12T14:25:00",
+        "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/quantum-sensing-revolutionary-applications-medicine-navigation-security"
+    },
+    {
+        "title": "CRISPR Beyond Medicine: Applications in Agriculture, Conservation, and Industry",
+        "excerpt": "Exploring how gene editing technology is transforming fields far beyond healthcare.",
+        "category": "Innovation",
+        "tag": "Innovation",
+        "readTime": "12 min",
+        "timestamp": "2025-06-25T09:50:00",
+        "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/crispr-beyond-medicine-applications-agriculture-conservation-industry"
+    },
+    {
+        "title": "The Large Hadron Collider's Next Chapter: Searching for Physics Beyond the Standard Model",
+        "excerpt": "Upcoming experiments at CERN designed to uncover new particles and fundamental forces.",
+        "category": "Experiments",
+        "tag": "Experiments",
+        "readTime": "16 min",
+        "timestamp": "2024-05-22T11:30:00",
+        "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/large-hadron-collider-next-chapter-searching-physics-beyond-standard-model"
+    },
+    {
+        "title": "Double-Slit Experiment in the Quantum Age: New Variations and Implications",
+        "excerpt": "Modern reinterpretations of the classic experiment revealing deeper mysteries of quantum reality.",
+        "category": "Experiments",
+        "tag": "Experiments",
+        "readTime": "11 min",
+        "timestamp": "2025-09-14T15:15:00",
+        "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/double-slit-experiment-quantum-age-new-variations-implications"
+    },
+    {
+        "title": "String Theory Updates: Progress, Challenges, and Alternative Approaches",
+        "excerpt": "Current status of string theory and competing frameworks for unifying quantum mechanics and relativity.",
+        "category": "Theory",
+        "tag": "Theory",
+        "readTime": "18 min",
+        "timestamp": "2024-06-30T13:45:00",
+        "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/string-theory-updates-progress-challenges-alternative-approaches"
+    },
+    {
+        "title": "The Multiverse Hypothesis: Scientific Evidence and Philosophical Implications",
+        "excerpt": "Examining the theoretical basis and potential observational signatures of parallel universes.",
+        "category": "Theory",
+        "tag": "Theory",
+        "readTime": "17 min",
+        "timestamp": "2025-11-03T10:20:00",
+        "image": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/multiverse-hypothesis-scientific-evidence-philosophical-implications"
+    },
+    {
+        "title": "Dark Matter Direct Detection: Latest Results from Underground Laboratories",
+        "excerpt": "Current experiments attempting to observe dark matter particles through direct interaction.",
+        "category": "Evidence",
+        "tag": "Evidence",
+        "readTime": "14 min",
+        "timestamp": "2024-07-19T09:40:00",
+        "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/dark-matter-direct-detection-latest-results-underground-laboratories"
+    },
+    {
+        "title": "Gravitational Wave Astronomy: New Insights from Colliding Black Holes and Neutron Stars",
+        "excerpt": "Recent discoveries from LIGO and Virgo observatories revealing cosmic cataclysms.",
+        "category": "Evidence",
+        "tag": "Evidence",
+        "readTime": "13 min",
+        "timestamp": "2025-04-28T16:10:00",
+        "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/gravitational-wave-astronomy-new-insights-colliding-black-holes-neutron-stars"
+    },
+    {
+        "title": "Room-Temperature Superconductivity: The Quest and Recent Controversies",
+        "excerpt": "Examining claims, retractions, and ongoing research into superconductors that work at everyday temperatures.",
+        "category": "Breakthroughs",
+        "tag": "Breakthroughs",
+        "readTime": "15 min",
+        "timestamp": "2024-08-25T14:50:00",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/room-temperature-superconductivity-quest-recent-controversies"
+    },
+    {
+        "title": "AlphaFold's Impact: How AI is Revolutionizing Protein Structure Prediction",
+        "excerpt": "Assessing the transformative effect of DeepMind's AI on biological research and drug discovery.",
+        "category": "Breakthroughs",
+        "tag": "Breakthroughs",
+        "readTime": "12 min",
+        "timestamp": "2025-07-17T11:25:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/alphafold-impact-how-ai-revolutionizing-protein-structure-prediction"
+    },
+    {
+        "title": "Mathematics of Emergence: How Simple Rules Create Complex Systems",
+        "excerpt": "Exploring the mathematical principles behind self-organization in nature, from ant colonies to economies.",
+        "category": "Foundations",
+        "tag": "Foundations",
+        "readTime": "16 min",
+        "timestamp": "2024-09-14T13:15:00",
+        "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/mathematics-emergence-how-simple-rules-create-complex-systems"
+    },
+    {
+        "title": "Information Theory's Expanding Role: From Communications to Biology and Physics",
+        "excerpt": "How Claude Shannon's framework is becoming fundamental across diverse scientific disciplines.",
+        "category": "Foundations",
+        "tag": "Foundations",
+        "readTime": "14 min",
+        "timestamp": "2025-10-09T15:40:00",
+        "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/information-theory-expanding-role-communications-biology-physics"
+    },
+    {
+        "title": "Quantum Gravity Approaches: Loop Quantum Gravity vs String Theory",
+        "excerpt": "Comparing two leading frameworks attempting to unify quantum mechanics and general relativity.",
+        "category": "Physics",
+        "tag": "Physics",
+        "readTime": "18 min",
+        "timestamp": "2024-10-08T10:30:00",
+        "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/quantum-gravity-approaches-loop-quantum-gravity-vs-string-theory"
+    },
+    {
+        "title": "Condensed Matter Physics: The Surprising World of Exotic Material States",
+        "excerpt": "Exploring topological insulators, quantum spin liquids, and other novel phases of matter.",
+        "category": "Physics",
+        "tag": "Physics",
+        "readTime": "15 min",
+        "timestamp": "2025-12-12T14:20:00",
+        "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/condensed-matter-physics-surprising-world-exotic-material-states"
+    },
+    {
+        "title": "Organic Chemistry Revolution: Sustainable Synthesis and Green Chemistry Principles",
+        "excerpt": "New approaches to chemical synthesis that minimize waste and environmental impact.",
+        "category": "Chemistry",
+        "tag": "Chemistry",
+        "readTime": "13 min",
+        "timestamp": "2024-11-05T11:45:00",
+        "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/organic-chemistry-revolution-sustainable-synthesis-green-chemistry-principles"
+    },
+    {
+        "title": "Computational Chemistry: How Simulations Are Accelerating Molecular Discovery",
+        "excerpt": "The growing role of computer modeling in predicting chemical properties and reactions.",
+        "category": "Chemistry",
+        "tag": "Chemistry",
+        "readTime": "11 min",
+        "timestamp": "2026-01-18T09:15:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/computational-chemistry-how-simulations-accelerating-molecular-discovery"
+    },
+    {
+        "title": "Epigenetics: How Environment and Experience Modify Gene Expression",
+        "excerpt": "Exploring the mechanisms that allow lifestyle and environment to influence our biology without changing DNA.",
+        "category": "Biology",
+        "tag": "Biology",
+        "readTime": "14 min",
+        "timestamp": "2024-12-19T13:30:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/epigenetics-how-environment-experience-modify-gene-expression"
+    },
+    {
+        "title": "Synthetic Biology: Engineering Living Systems for Practical Applications",
+        "excerpt": "How researchers are programming cells to produce medicines, materials, and sustainable alternatives.",
+        "category": "Biology",
+        "tag": "Biology",
+        "readTime": "16 min",
+        "timestamp": "2025-02-14T15:50:00",
+        "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/synthetic-biology-engineering-living-systems-practical-applications"
+    },
+    {
+        "title": "Genome-Wide Association Studies: Uncovering Genetic Links to Complex Diseases",
+        "excerpt": "How large-scale genetic analysis is revealing the hereditary components of common conditions.",
+        "category": "Genetics",
+        "tag": "Genetics",
+        "readTime": "15 min",
+        "timestamp": "2025-01-22T10:25:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/genome-wide-association-studies-uncovering-genetic-links-complex-diseases"
+    },
+    {
+        "title": "Personalized Genomics: From Ancestry Testing to Precision Medicine",
+        "excerpt": "How individual genetic profiles are transforming healthcare and our understanding of heritage.",
+        "category": "Genetics",
+        "tag": "Genetics",
+        "readTime": "12 min",
+        "timestamp": "2025-08-30T14:40:00",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/personalized-genomics-ancestry-testing-precision-medicine"
+    },
+    {
+        "title": "Connectomics: Mapping the Brain's Complex Neural Networks",
+        "excerpt": "Efforts to create comprehensive maps of brain connectivity and understand neural circuitry.",
+        "category": "Neuroscience",
+        "tag": "Neuroscience",
+        "readTime": "17 min",
+        "timestamp": "2025-03-25T11:10:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/connectomics-mapping-brain-complex-neural-networks"
+    },
+    {
+        "title": "Neuroplasticity: How Experience Shapes and Reshapes the Adult Brain",
+        "excerpt": "New understanding of how learning, trauma, and rehabilitation can physically alter brain structure.",
+        "category": "Neuroscience",
+        "tag": "Neuroscience",
+        "readTime": "13 min",
+        "timestamp": "2025-11-19T09:45:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/neuroplasticity-how-experience-shapes-reshapes-adult-brain"
+    },
+    {
+        "title": "mRNA Vaccine Technology: Beyond COVID to Cancer and Other Diseases",
+        "excerpt": "How the pandemic breakthrough is being adapted to tackle other medical challenges.",
+        "category": "Medical Research",
+        "tag": "Medical Research",
+        "readTime": "14 min",
+        "timestamp": "2025-04-17T13:20:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/mrna-vaccine-technology-beyond-covid-cancer-other-diseases"
+    },
+    {
+        "title": "Immunotherapy Advances: Harnessing the Immune System Against Cancer",
+        "excerpt": "Latest developments in CAR-T cells, checkpoint inhibitors, and other immune-based cancer treatments.",
+        "category": "Medical Research",
+        "tag": "Medical Research",
+        "readTime": "16 min",
+        "timestamp": "2026-01-05T15:30:00",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/immunotherapy-advances-harnessing-immune-system-against-cancer"
+    },
+    {
+        "title": "Wearable Health Tech: From Fitness Trackers to Medical Diagnostic Devices",
+        "excerpt": "How personal technology is evolving into sophisticated health monitoring systems.",
+        "category": "Health Tech",
+        "tag": "Health Tech",
+        "readTime": "11 min",
+        "timestamp": "2025-05-28T10:15:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/wearable-health-tech-fitness-trackers-medical-diagnostic-devices"
+    },
+    {
+        "title": "Telemedicine Evolution: Integrating AI and Remote Monitoring for Better Care",
+        "excerpt": "How digital health platforms are becoming more sophisticated and personalized.",
+        "category": "Health Tech",
+        "tag": "Health Tech",
+        "readTime": "10 min",
+        "timestamp": "2025-12-22T14:50:00",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/telemedicine-evolution-integrating-ai-remote-monitoring-better-care"
+    },
+    {
+        "title": "Organoids: Miniature Organs Grown in Labs for Research and Transplantation",
+        "excerpt": "How stem cell technology is creating tiny functional organs for testing and potential therapeutic use.",
+        "category": "Biotech",
+        "tag": "Biotech",
+        "readTime": "15 min",
+        "timestamp": "2025-06-20T12:40:00",
+        "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/organoids-miniature-organs-grown-labs-research-transplantation"
+    },
+    {
+        "title": "Gene Therapy 2.0: Safer, More Effective Approaches to Genetic Medicine",
+        "excerpt": "Next-generation techniques overcoming early limitations and expanding treatment possibilities.",
+        "category": "Biotech",
+        "tag": "Biotech",
+        "readTime": "16 min",
+        "timestamp": "2026-02-03T11:25:00",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/gene-therapy-2-safer-more-effective-approaches-genetic-medicine"
+    },
+    {
+        "title": "Ecological Restoration: Using Science to Revive Damaged Ecosystems",
+        "excerpt": "How research is guiding efforts to restore forests, wetlands, and other vital habitats.",
+        "category": "Environmental Science",
+        "tag": "Environmental Science",
+        "readTime": "13 min",
+        "timestamp": "2025-07-15T09:30:00",
+        "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/ecological-restoration-using-science-revive-damaged-ecosystems"
+    },
+    {
+        "title": "Biodiversity Monitoring: New Technologies for Tracking Species and Ecosystems",
+        "excerpt": "How AI, drones, and sensor networks are revolutionizing conservation science.",
+        "category": "Environmental Science",
+        "tag": "Environmental Science",
+        "readTime": "12 min",
+        "timestamp": "2025-10-28T16:20:00",
+        "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/biodiversity-monitoring-new-technologies-tracking-species-ecosystems"
+    },
+    {
+        "title": "Climate Tipping Points: Identifying and Understanding Critical Thresholds",
+        "excerpt": "Research on irreversible changes that could accelerate global warming and ecosystem collapse.",
+        "category": "Climate Science",
+        "tag": "Climate Science",
+        "readTime": "17 min",
+        "timestamp": "2025-08-10T13:45:00",
+        "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/climate-tipping-points-identifying-understanding-critical-thresholds"
+    },
+    {
+        "title": "Carbon Cycle Dynamics: New Understanding of Natural and Human Influences",
+        "excerpt": "Latest research on how carbon moves through atmosphere, oceans, and terrestrial systems.",
+        "category": "Climate Science",
+        "tag": "Climate Science",
+        "readTime": "15 min",
+        "timestamp": "2026-01-25T10:10:00",
+        "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/carbon-cycle-dynamics-new-understanding-natural-human-influences"
+    },
+    {
+        "title": "Plate Tectonics Updates: New Discoveries About Earth's Moving Surface",
+        "excerpt": "Recent findings about continental drift, supercontinent cycles, and geological processes.",
+        "category": "Earth Science",
+        "tag": "Earth Science",
+        "readTime": "14 min",
+        "timestamp": "2025-09-05T14:35:00",
+        "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/plate-tectonics-updates-new-discoveries-about-earth-moving-surface"
+    },
+    {
+        "title": "Earth's Magnetic Field: Fluctuations, Reversals, and Modern Monitoring",
+        "excerpt": "Understanding the dynamo that protects our planet and how it's changing over time.",
+        "category": "Earth Science",
+        "tag": "Earth Science",
+        "readTime": "13 min",
+        "timestamp": "2025-12-05T11:50:00",
+        "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/earth-magnetic-field-fluctuations-reversals-modern-monitoring"
+    },
+    {
+        "title": "Deep Ocean Currents: Understanding Their Role in Climate and Ecosystems",
+        "excerpt": "Research on the massive underwater rivers that distribute heat, nutrients, and carbon globally.",
+        "category": "Ocean Science",
+        "tag": "Ocean Science",
+        "readTime": "16 min",
+        "timestamp": "2025-10-12T09:40:00",
+        "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/deep-ocean-currents-understanding-their-role-climate-ecosystems"
+    },
+    {
+        "title": "Ocean Acidification: Impacts on Marine Life and Potential Solutions",
+        "excerpt": "How increasing CO2 absorption is changing seawater chemistry and affecting ecosystems.",
+        "category": "Ocean Science",
+        "tag": "Ocean Science",
+        "readTime": "14 min",
+        "timestamp": "2026-02-07T15:25:00",
+        "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/ocean-acidification-impacts-marine-life-potential-solutions"
+    },
+    {
+        "title": "James Webb Space Telescope: Revolutionary Discoveries in Its First Years",
+        "excerpt": "Early findings about early galaxies, exoplanet atmospheres, and cosmic evolution.",
+        "category": "Space Science",
+        "tag": "Space Science",
+        "readTime": "15 min",
+        "timestamp": "2025-11-08T13:10:00",
+        "image": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/james-webb-space-telescope-revolutionary-discoveries-first-years"
+    },
+    {
+        "title": "Space Weather: Understanding Solar Storms and Their Impact on Earth",
+        "excerpt": "Research on coronal mass ejections, solar flares, and their effects on technology and infrastructure.",
+        "category": "Space Science",
+        "tag": "Space Science",
+        "readTime": "12 min",
+        "timestamp": "2026-01-30T10:45:00",
+        "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/space-weather-understanding-solar-storms-their-impact-earth"
+    },
+    {
+        "title": "Black Hole Astrophysics: New Insights from Event Horizon Telescope and Others",
+        "excerpt": "Latest observations revealing the structure, behavior, and influence of these cosmic phenomena.",
+        "category": "Astronomy",
+        "tag": "Astronomy",
+        "readTime": "17 min",
+        "timestamp": "2025-12-15T14:20:00",
+        "image": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/black-hole-astrophysics-new-insights-event-horizon-telescope-others"
+    },
+    {
+        "title": "Cosmic Inflation Evidence: What We're Learning About the Universe's First Moments",
+        "excerpt": "Current research on the rapid expansion that occurred fractions of a second after the Big Bang.",
+        "category": "Astronomy",
+        "tag": "Astronomy",
+        "readTime": "18 min",
+        "timestamp": "2025-10-30T11:35:00",
+        "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/cosmic-inflation-evidence-what-learning-about-universe-first-moments"
+    },
+    {
+        "title": "Artemis Program: Scientific Goals for Returning Humans to the Moon",
+        "excerpt": "Research objectives for NASA's lunar missions, from geology to long-term habitation.",
+        "category": "Exploration",
+        "tag": "Exploration",
+        "readTime": "14 min",
+        "timestamp": "2025-09-22T09:15:00",
+        "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/artemis-program-scientific-goals-returning-humans-moon"
+    },
+    {
+        "title": "Mars Sample Return: Technical Challenges and Scientific Potential",
+        "excerpt": "The complex mission to bring Martian rocks and soil back to Earth for detailed analysis.",
+        "category": "Exploration",
+        "tag": "Exploration",
+        "readTime": "16 min",
+        "timestamp": "2026-02-01T13:50:00",
+        "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/mars-sample-return-technical-challenges-scientific-potential"
+    },
+    {
+        "title": "Metamaterials: Engineering Substances with Properties Not Found in Nature",
+        "excerpt": "How artificially structured materials can bend light in unusual ways and enable new technologies.",
+        "category": "Materials",
+        "tag": "Materials",
+        "readTime": "15 min",
+        "timestamp": "2025-08-25T15:10:00",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/metamaterials-engineering-substances-properties-not-found-nature"
+    },
+    {
+        "title": "Smart Materials: Substances That Respond to Environment and Self-Repair",
+        "excerpt": "Advances in materials that change properties or heal themselves in response to stimuli.",
+        "category": "Materials",
+        "tag": "Materials",
+        "readTime": "13 min",
+        "timestamp": "2025-11-28T10:30:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/smart-materials-substances-respond-environment-self-repair"
+    },
+    {
+        "title": "Nuclear Fusion Progress: Assessing Recent Breakthroughs and Remaining Challenges",
+        "excerpt": "Updated analysis of experiments achieving net energy gain and path to commercialization.",
+        "category": "Energy",
+        "tag": "Energy",
+        "readTime": "16 min",
+        "timestamp": "2025-07-30T12:45:00",
+        "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/nuclear-fusion-progress-assessing-recent-breakthroughs-remaining-challenges"
+    },
+    {
+        "title": "Grid-Scale Energy Storage: Technologies for a Renewable Future",
+        "excerpt": "Comparing batteries, pumped hydro, compressed air, and other approaches to storing clean energy.",
+        "category": "Energy",
+        "tag": "Energy",
+        "readTime": "14 min",
+        "timestamp": "2025-12-18T14:15:00",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/grid-scale-energy-storage-technologies-renewable-future"
+    },
+    {
+        "title": "Quantum Computing Algorithms: Beyond Shor's and Grover's",
+        "excerpt": "New approaches leveraging quantum mechanics for optimization, simulation, and machine learning.",
+        "category": "Computer Science",
+        "tag": "Computer Science",
+        "readTime": "18 min",
+        "timestamp": "2025-06-15T11:20:00",
+        "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/quantum-computing-algorithms-beyond-shor-grover"
+    },
+    {
+        "title": "Explainable AI: Making Machine Learning Decisions Transparent and Understandable",
+        "excerpt": "Techniques for interpreting complex AI models, especially in critical applications like healthcare.",
+        "category": "Computer Science",
+        "tag": "Computer Science",
+        "readTime": "15 min",
+        "timestamp": "2026-01-12T09:40:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/explainable-ai-making-machine-learning-decisions-transparent-understandable"
+    },
+    {
+        "title": "Soft Robotics: Creating Machines That Can Squeeze, Stretch, and Heal",
+        "excerpt": "The emerging field of flexible robots inspired by biological systems for delicate operations.",
+        "category": "Robotics",
+        "tag": "Robotics",
+        "readTime": "14 min",
+        "timestamp": "2025-05-10T13:25:00",
+        "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/soft-robotics-creating-machines-squeeze-stretch-heal"
+    },
+    {
+        "title": "Swarm Robotics: Coordinating Simple Robots for Complex Tasks",
+        "excerpt": "How decentralized systems inspired by insect colonies can accomplish sophisticated objectives.",
+        "category": "Robotics",
+        "tag": "Robotics",
+        "readTime": "13 min",
+        "timestamp": "2025-11-05T15:50:00",
+        "image": "https://images.unsplash.com/photo-1677856209785-6c0c1edb7d39?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/swarm-robotics-coordinating-simple-robots-complex-tasks"
+    },
+    {
+        "title": "Synthetic Biology Applications: From Biofuels to Bioremediation",
+        "excerpt": "How engineered biological systems are addressing environmental and industrial challenges.",
+        "category": "Synthetic Biology",
+        "tag": "Synthetic Biology",
+        "readTime": "16 min",
+        "timestamp": "2025-04-05T10:15:00",
+        "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/synthetic-biology-applications-biofuels-bioremediation"
+    },
+    {
+        "title": "Biological Circuits: Programming Cells Like Electronic Systems",
+        "excerpt": "Designing genetic networks that perform logic operations, memory storage, and signal processing.",
+        "category": "Synthetic Biology",
+        "tag": "Synthetic Biology",
+        "readTime": "17 min",
+        "timestamp": "2025-10-20T14:30:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/biological-circuits-programming-cells-electronic-systems"
+    },
+    {
+        "title": "Precision Agriculture: Using Data and Technology to Optimize Farming",
+        "excerpt": "How sensors, drones, and AI are revolutionizing crop management and resource use.",
+        "category": "Agri Science",
+        "tag": "Agri Science",
+        "readTime": "13 min",
+        "timestamp": "2025-03-15T12:40:00",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/precision-agriculture-using-data-technology-optimize-farming"
+    },
+    {
+        "title": "Prrecision Agriculture: Using Data and Technology to Optimize Farming",
+        "excerpt": "How sensors, drones, and AI are revolutionizing crop management and resource use.",
+        "category": "Agri Science",
+        "tag": "Agri Science",
+        "readTime": "13 min",
+        "timestamp": "2025-03-15T12:40:00",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/precision-agriculture-using-data-technology-optimize-farming"
+    },
+    {
+        "title": "Vertical Farming: Scientific Advances in Controlled Environment Agriculture",
+        "excerpt": "Research on optimizing light, nutrients, and conditions for stacked indoor crop production.",
+        "category": "Agri Science",
+        "tag": "Agri Science",
+        "readTime": "12 min",
+        "timestamp": "2025-09-30T09:25:00",
+        "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/vertical-farming-scientific-advances-controlled-environment-agriculture"
+    },
+    {
+        "title": "Cognitive Bias Research: Understanding Systematic Errors in Human Judgment",
+        "excerpt": "How psychological science identifies and categorizes predictable thinking mistakes.",
+        "category": "Behavioral Science",
+        "tag": "Behavioral Science",
+        "readTime": "15 min",
+        "timestamp": "2025-02-28T11:10:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/cognitive-bias-research-understanding-systematic-errors-human-judgment"
+    },
+    {
+        "title": "Behavioral Economics: Applying Psychology to Understand Economic Decisions",
+        "excerpt": "How research on human irrationality is transforming economic models and policy design.",
+        "category": "Behavioral Science",
+        "tag": "Behavioral Science",
+        "readTime": "14 min",
+        "timestamp": "2025-08-15T15:45:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/behavioral-economics-applying-psychology-understand-economic-decisions"
+    }
+]
